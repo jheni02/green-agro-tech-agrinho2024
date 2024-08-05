@@ -1,4 +1,4 @@
-# green-agro-tech-agrinho2024
+# Green-agro-tech-agrinho2024
 
 
 Olá! Seja muito bem vindo (a) ao meu projeto de programação para o agrinho 2024, nesse projeto desejo atender o objetivo maior da competição, o tema:" do campo a cidade colhendo oportunidades". Seguindo essa lógica do tema, desenvolvi uma plataforma, com o objetivo de criar oportunidades no mundo do agronécio para todos os envolvidos no ramo, sendo assim crie o site: GreenAgroTech, onde o seu próprio nome reflete o que quero abordar o meu sit, "Green"- Sustantábilidade, "Agro"- Agronegócio e por fim, "Tech"- Revolução com tecnologia, que no caso foi usada a partir da criação da plataforma.
