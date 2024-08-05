@@ -13,9 +13,9 @@ Ainda no index.hmtl, tela que o usuário tem o primeiro contato, ao rolar a tela
 
 Já depois de ter clicado no botão: comece aqui, que redirecionará para o arquivo já antes mencionado, tela-inicial.html, é possível notar novamente o banner da tela anterior, desta vez sem o botão no seu centro, abaixo do banner algumas imagens tituladas como: cursos, networking, notícias e feiras, com um pequeno zoom ( esse zoom é para direcionar o usuário a um clique sobre elas, entretanto não desenvolvi os conteúdos dessas imagens, por o site ser algo, como já disse: fictício ), ao final dessa segunda tela, o usuário se deparará com o mesmo footer, e recursos do menu, da página anterior.
 
-# Todas as imagens da página são originais*
-# Utilizei no site palavras do tipo: Nós, criamos e outras palavras do plural, para dar um experiência ainda mais real, de que realmente a empresa existe.*
+*Todas as imagens da página são originais*
+*Utilizei no site palavras do tipo: Nós, criamos e outras palavras do plural, para dar um experiência ainda mais real, de que realmente a empresa existe.*
 
 Espero que tenha entendido como funciona o site, e que consiga ter uma boa experiência.
 
-#Agrinho2024
+# #Agrinho2024
